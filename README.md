@@ -1,6 +1,6 @@
-# Instructie template
+# Instructies Python
 
-Dit archief bevat instructies voor het gebruik van de instructie template. 
+Dit archief bevat instructies voor het programmeren in Python 
 
-De pagina's zijn zichtbaar via [https://coderdojonijmegen.github.io/instructie_template/](https://coderdojonijmegen.github.io/instructie_template/).
+De pagina's zijn zichtbaar via [https://coderdojonijmegen.github.io/python/](https://coderdojonijmegen.github.io/python/).
 
