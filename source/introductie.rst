@@ -1,14 +1,53 @@
 Introductie
 ===========
 
-`CoderDojo Nijmegen <https://coderdojo-nijmegen.nl>`_ gebruikt voor haar instructies `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_, een 
-plain-text markup taal enigzins vergelijkbaar met MarkDown markup. Gecombineerd met `Sphinx <https://www.sphinx-doc.org/>`_ kun je op relatief eenvoudige 
-wijze professioneel uitziende documentatie maken. Ondersteunde formaten zijn onder andere HTML, LaTeX (voor PDF), ePub, Texinfo, man-pages en platte tekst.
+Python is een programmeertaal die in 1991 door de Nederlander Guido van Rossum is bedacht. Tegenwoordig is Python over de hele wereld een van de meest gebruikte talen om in te programmeren, o.a. omdat Python voor veel verschillende toepassingen te gebruiken is (bijvoorbeeld voor servers en spellen) en omdat de code goed leesbaar is door mensen. Python is dan ook relatief eenvoudig te leren.
 
-Veel open-source documentatie is geschreven met behulp van deze tool en gepubliceerd op `Read the Docs <https://readthedocs.org/>`_, zoals bijvoorbeeld 
-de documentatie van de `bootstrap-datepicker <https://bootstrap-datepicker.readthedocs.io/en/latest/>`_. 
+Om je wegwijs te maken in hoe je (werkende) Python code schrijft hebben we een aantal opdrachten verzameld en gemaakt. Er zijn makkelijker en moeilijker opdrachten. Als je twijfelt over met welke opdracht je moet beginnen vraag dan een van de mentoren, die kunnen je helpen met kiezen!
 
-Het template van Read the Docs is ook beschikbaar voor eigen gebruik in combinatie met Sphinx en CoderDojo Nijmegen maakt daar gebruik van.
+Voorbereiding
+-------------
 
-Deze instructie legt uit hoe de benodigde software geïnstalleerd moet worden en hoe vervolgens gebruik gemaakt kan worden van de, voor CoderDojo Nijmegen,
-aangepaste versie van de Read the Docs template.
+Thonny
+^^^^^^
+De instructies van de Raspberry Pi Foundation (RPF) gebruiken de website trinket.io om de Python code te schrijven en uit te voeren. Wij hebben gekozen voor het programma Thonny, omdat dit (nadat je het gedownload hebt natuurlijk) ook zonder internetverbinding werkt. Je kunt Thonny `hier <url>`_ downloaden.
+
+  * in Thonny voer je je code uit door op F5 te drukken of het groene Play-knopje te klikken.
+  * 
+
+Verschillen tussen instructies met trinket.io en Thonny
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Let bij het lezen van de RPF instructies op het volgende:
+ * als er iets staat als "Open de Python-sjabloon Trinket" dan kun je in Thonny een nieuw bestand openen.
+ * als er staat "Open deze trinket" kijk dan even bij de opmerkingen van de opdracht hieronder.
+
+Opdrachten
+----------
+
+Gemakkelijk
+  * Turtle (--> Rik)
+
+Gemiddeld
+  * `Teams maken <https://projects.raspberrypi.org/nl-NL/projects/team-chooser/>`_
+  * `Steen papier schaar <https://projects.raspberrypi.org/nl-NL/projects/rock-paper-scissors/>`_
+
+    * Op de pagina "Speler's beurt" staat "Open deze trinket". In plaats daarvan kun je een nieuw bestand openen in Thonny en daar alvast deze regel code invullen: ``from random import randint``
+
+Moeilijk
+  * `Schildpaddenrace <https://projects.raspberrypi.org/nl-NL/projects/turtle-race/>`_
+  * `Geheime boodschap <https://projects.raspberrypi.org/nl-NL/projects/secret-messages/>`_
+
+
+Extra moeilijk
+  * Classes
+
+
+Classes
+-------
+
+  * In Python kun je OOP
+  * Bronnen:
+  
+    * https://teachyourkidscode.com/learn-python-for-kids/
+    * https://www.pythoncentral.io/introduction-to-python-classes/
+    * http://introtopython.org/classes.html
