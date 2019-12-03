@@ -1,19 +1,16 @@
 Benodigdheden
 =============
 
-Voor het gebruik van deze template moeten de volgende programma's geïnstalleerd zijn:
+Thonny
+^^^^^^
+De instructies van de Raspberry Pi Foundation (RPF) gebruiken de website trinket.io om de Python code te schrijven en
+uit te voeren. Wij hebben gekozen voor het programma Thonny, omdat dit (nadat je het gedownload hebt natuurlijk) ook
+zonder internetverbinding werkt. Je kunt Thonny downloaden van de CoderDojo server.
 
- - Python 2.7/3.6
- - Sphinx
- - sphinx-rtd-theme
+  * in Thonny voer je je code uit door op F5 te drukken of het groene Play-knopje te klikken.
 
-Installatie onder Ubuntu:
-
-.. code-block:: bash
-
-   apt install python3 python3-pip
-   git clone https://github.com/coderdojonijmegen/instructie_template.git
-   cd instructie_template
-   pip3 install -r requirements.txt
-
-Intellij ondersteunt color-coding en code-completion voor reStructuredText middels een plugin.
+Verschillen tussen instructies met trinket.io en Thonny
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Let bij het lezen van de RPF instructies op het volgende:
+ * als er iets staat als "Open de Python-sjabloon Trinket" dan kun je in Thonny een nieuw bestand openen.
+ * als er staat "Open deze trinket" kijk dan even bij de opmerkingen van de opdracht hieronder.

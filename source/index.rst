@@ -7,8 +7,7 @@ instructie template
 
    introductie
    benodigdheden
-   templategebruiken
-   templateaanpassen
+   stappen
    conclusie
    vervolg
    licentie

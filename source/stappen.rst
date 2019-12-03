@@ -1,56 +1,28 @@
 Stappen
 =======
 
-Instructie template aanpassen
------------------------------
+Opdrachten
+----------
 
-Deze instructie is voornamelijk bedoeld om uit te leggen hoe nieuwe instructies te maken op basis van deze template.
-Maar, zo nu en dan zullen er ook aanpassingen aan de template gemaakt moeten maken. De werkwijze is niet heel anders dan 
-voor nieuwe instructies:
+Gemakkelijk
+  * Turtle (--> Rik)
 
-1. clone de `instructie_template <https://github.com/coderdojonijmegen/instructie_template.git>`_
-2. maak aanpassingen aan de template
-3. `bouw de html <#html-bouwen>`_
-4. commit en push de aanpassingen en aangepaste HTML
+Gemiddeld
+  * `Teams maken <https://projects.raspberrypi.org/nl-NL/projects/team-chooser/>`_
+  * `Steen papier schaar <https://projects.raspberrypi.org/nl-NL/projects/rock-paper-scissors/>`_
 
-Nieuwe instructie maken
------------------------
+  * Op de pagina "Speler's beurt" staat "Open deze trinket". In plaats daarvan kun je een nieuw bestand openen in \
+    Thonny en daar alvast deze regel code invullen: ``from random import randint``
 
-De `instructie_template <https://github.com/coderdojonijmegen/instructie_template.git>`_ is op GitHub opgeslagen als template.
-Dit betekend dat je de repository als basis voor een nieuwe repository kunt gebruiken. Dit is een handig startpunt voor
-nieuwe instructies.
+Moeilijk
+  * `Schildpaddenrace <https://projects.raspberrypi.org/nl-NL/projects/turtle-race/>`_
+  * `Geheime boodschap <https://projects.raspberrypi.org/nl-NL/projects/secret-messages/>`_
 
-Om de nieuwe repository op basis van de template te maken, klik je op de groene *Use this template* knop:
 
-.. image:: /imgs/github_use_template_repo.png
+Extra moeilijk
+  * In Python kun je OOP
+  * Bronnen:
 
-Clone vervolgens de nieuwe repository en 
-
-HTML bouwen
------------
-
-Scratch blokken gebruiken
--------------------------
-
-Je kunt in de instructies gebruik maken van Scratch blokken. Gebruik daarvoor de volgende code:
-
-.. code::
-
-   .. raw:: html
-
-      <div class = "scratch">
-          when flag clicked
-          clear
-      </div>
-
-En dat resulteert dan in:
-
-.. raw:: html
-
-   <div class = "scratch">
-       when flag clicked
-       clear
-   </div>
-
-Voor meer informatie over de te gebruiken blokken vind je op de Scratch Wiki:
-`Block Plugin/Syntax <https://en.scratch-wiki.info/wiki/Block_Plugin/Syntax>`_
+    * https://teachyourkidscode.com/learn-python-for-kids/
+    * https://www.pythoncentral.io/introduction-to-python-classes/
+    * http://introtopython.org/classes.html
