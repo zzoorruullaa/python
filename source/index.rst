@@ -1,4 +1,4 @@
-instructie template
+Python instructie
 ==============================================
 
 .. toctree::
