@@ -5,7 +5,7 @@ Opdrachten
 ----------
 
 Gemakkelijk
-  * Turtle (--> Rik)
+  * `Beginnen met Turtle <https://coderdojonijmegen.github.io/py-turtle/index.html/>`_
 
 Gemiddeld
   * `Teams maken <https://projects.raspberrypi.org/nl-NL/projects/team-chooser/>`_
@@ -17,12 +17,3 @@ Gemiddeld
 Moeilijk
   * `Schildpaddenrace <https://projects.raspberrypi.org/nl-NL/projects/turtle-race/>`_
   * `Geheime boodschap <https://projects.raspberrypi.org/nl-NL/projects/secret-messages/>`_
-
-
-Extra moeilijk
-  * In Python kun je OOP
-  * Bronnen:
-
-    * https://teachyourkidscode.com/learn-python-for-kids/
-    * https://www.pythoncentral.io/introduction-to-python-classes/
-    * http://introtopython.org/classes.html
