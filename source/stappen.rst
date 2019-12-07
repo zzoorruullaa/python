@@ -5,7 +5,7 @@ Opdrachten
 ----------
 
 Gemakkelijk
-  * `Beginnen met Turtle <https://coderdojonijmegen.github.io/py-turtle/index.html/>`_
+  * `Beginnen met Turtle <https://coderdojonijmegen.github.io/py-turtle/index.html>`_
 
 Gemiddeld
   * `Teams maken <https://projects.raspberrypi.org/nl-NL/projects/team-chooser/>`_
